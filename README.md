@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ML projects
 - 📫 How to reach me:
 my e-mail
-epureecole@gmail.com
+kseniia.tsyganova.ml@gmail.com
 
 <!---
 KseniiaTsyganova/KseniiaTsyganova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
